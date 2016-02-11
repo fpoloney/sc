@@ -8,7 +8,7 @@ page.landing.image=
 <div class="landing-docs">
 
   <div class="col-12">
-    <h3>Changed on local with cr lf left in --  Blog Articles</h3>
+    <h3>Changed on remote - Changed on local with cr lf left in --  Blog Articles</h3>
     <a
 href="http://android-developers.blogspot.com/2012/03/unifying-key-store-access-in-ics.html">
       <h4>Unifying Key Store Access in ICS</h4>
