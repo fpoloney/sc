@@ -10,7 +10,7 @@ page.title=Introduction to Android
 href="{@docRoot}training/basics/firstapp/index.html">Building Your First App</a>.</p>
 </div>
 
-<p>Change on local leaving cr lf -- Android provides a rich application framework that allows you to build innovative apps and games
+<p>Change on remote - Change on local leaving cr lf -- Android provides a rich application framework that allows you to build innovative apps and games
 for mobile devices in a Java language environment. The documents listed in the left
 navigation provide details about how to build apps using Android's various APIs.</p>
 
