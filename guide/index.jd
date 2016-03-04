@@ -4,6 +4,9 @@ page.title=Introduction to Android
 
 
 <div class="sidebox" style="max-width:30%"><!-- width to match col-4 below -->
+
+<p>New commit on guide/index.jd for test</p>
+
 <p>To learn how apps work, start with
 <a href="{@docRoot}guide/components/fundamentals.html">App Fundamentals</a>.</p>
 <p>To begin coding right away, read <a
